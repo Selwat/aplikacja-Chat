@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/60c2a68b-5799-48a6-84cc-9bf2a63c6e62/resourceGroups/ChatApp/providers/Microsoft.Web/sites/ChatAppSelwat",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
